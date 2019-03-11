@@ -1,9 +1,15 @@
 # Algo--All-Sorting-Combined
 
 bubble
-insertion 
+
+insertion
+
 selection
-merge 
-quick 
-heap 
+
+merge
+
+quick
+
+heap
+
 modified quick sort 
